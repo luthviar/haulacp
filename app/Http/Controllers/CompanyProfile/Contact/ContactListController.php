@@ -30,11 +30,11 @@ class ContactListController extends Controller
            ->first();
              if($item){
                  $this->id           	= $item->menuEntryID;
-                 $this->name          = $item->name;
+                 $this->name            = $item->name;
                  $this->judul      		= $item->judul;
-                 $this->instansi      = $item->instansi;
+                 $this->instansi        = $item->instansi;
                  $this->no_hp     		= $item->no_hp;
-                 $this->email     	  = $item->email;
+                 $this->email     	    = $item->email;
                  $this->pesan      		= $item->pesan;
                  $this->createdat    	= $item->created_at;
                  $this->updatedat    	= $item->updated_at;

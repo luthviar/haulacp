@@ -8,6 +8,8 @@ use App\Http\Controllers\Controller,
     App\Http\Controllers\CompanyProfile\Contact\ContactListController as Contact,
     Illuminate\Http\Request;
 
+use Session;
+
 class contactController extends Controller
 {
 
@@ -20,6 +22,7 @@ class contactController extends Controller
           $contact->email     = $request->email;
           $contact->pesan     = $request->message;
           $contact->create();
-          return redirect('/');
+          Session::flash('success','Terima kasih. Pesan Anda berhasil kami kirim kepada pengurus Madrasah Relawan.');
+          return redirect()->back();
   }
 }

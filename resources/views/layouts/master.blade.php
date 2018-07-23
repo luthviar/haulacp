@@ -7,5 +7,6 @@
 @yield('content')
 @include('layouts.footer')
 @include('layouts.script')
+@yield('script')
 </body>
 </html>
