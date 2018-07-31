@@ -28,6 +28,16 @@
   <!-- Main Stylesheet File -->
   <link rel="stylesheet" href="{{ URL::asset('css/style.css')}}" />
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122724938-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-122724938-1');
+  </script>
+
   <!-- =======================================================
     Theme Name: Reveal
     Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
