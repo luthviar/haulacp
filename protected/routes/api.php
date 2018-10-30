@@ -16,3 +16,10 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::get('blog', 'CompanyProfile\BlogController@getList');
+Route::get('blog-gen', 'CompanyProfile\BlogController@getList2');
+Route::get('blog/edit/{code}', 'CompanyProfile\BlogController@edit');
+Route::post('blog/edit/submit', 'CompanyProfile\BlogController@update');
+Route::post('blog/delete', 'CompanyProfile\BlogController@delete');
+Route::post('blog/create', 'CompanyProfile\BlogController@store');

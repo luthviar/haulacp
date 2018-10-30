@@ -17,6 +17,11 @@ class BlogController extends Controller
           return view('blog')->with('data',$data);
   }
 
+    public function getList2() {
+        $data = (new Blog)->getList();
+        return response($data);
+    }
+
   public function store(Request $request){
           $blog = new Blog();
           $blog->title        = $request->title;
