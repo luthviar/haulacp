@@ -25,4 +25,12 @@ class contactController extends Controller
           Session::flash('success','Terima kasih. Pesan Anda berhasil kami kirim kepada pengurus Madrasah Relawan.');
           return redirect()->back();
   }
+
+  public function get_list(){
+      $all_msg = DB::table('message')
+          ->orderBy('created_at','desc')
+          ->get();
+
+      return view('view_all_messages')->with('all_msg',$all_msg);
+  }
 }

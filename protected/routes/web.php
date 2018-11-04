@@ -23,6 +23,7 @@ Route::get('articles/edit/{code}', 'CompanyProfile\BlogController@edit');
 Route::post('articles/edit/submit', 'CompanyProfile\BlogController@update');
 Route::post('articles/delete', 'CompanyProfile\BlogController@delete');
 Route::post('articles/create', 'CompanyProfile\BlogController@store');
+Route::get('messages/list','CompanyProfile\contactController@get_list');
 
 
 

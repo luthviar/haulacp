@@ -6,7 +6,7 @@
     <h2>Pesan dan buat <u>mainan</u><br>edukatif Anda di sini!</h2>
     <div>
       <a href="#about" class="btn-get-started scrollto">Lihat Selanjutnya</a>
-      <a href="#portfolio" class="btn-projects scrollto">Produk Haula</a>
+      <a href="https://order.haula-toys.com" target="_blank" class="btn-projects scrollto">Order Produk Haula</a>
     </div>
   </div>
 
@@ -79,8 +79,8 @@
   <section id="services">
     <div class="container">
       <div class="section-header">
-        <h2>Layanan Kami</h2>
-        <p>Berikut ini berbagai layanan dari produksi haula toys untuk Anda.</p>
+        <h2>Layanan Kami <a href="https://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
+        <p>Berikut ini berbagai layanan dari produksi haula toys untuk Anda. <br/>Layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="https://order.haula-toys.com" target="_blank" style="color: blue!important;">https://order.haula-toys.com</a></p>
       </div>
 
       <div class="row">
@@ -104,7 +104,7 @@
         <div class="col-lg-6">
           <div class="box wow fadeInLeft" data-wow-delay="0.2s">
             <div class="icon"><i class="fa fa-picture-o"></i></div>
-            <h4 class="title"><a href="">Alat terapi autis &amp; kebutuhan khusus</a></h4>
+            <h4 class="title"><a href="">Alat terapi kebutuhan khusus</a></h4>
             <!-- <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p> -->
           </div>
         </div>
@@ -172,8 +172,10 @@
   <section id="portfolio" class="wow fadeInUp">
     <div class="container">
       <div class="section-header">
-        <h2>Portofolio Haula Toys</h2>
-        <p>Berikut ini berbagai hasil karya yang kami buat selama melayani berbagai pelanggan dan mitra selama 20 tahun ini.</p>
+        <h2>Portofolio Haula Toys <a href="https://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
+        <p>Berikut ini berbagai hasil karya yang kami buat selama melayani berbagai pelanggan dan mitra selama 20 tahun ini.<br/>
+          Layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="https://order.haula-toys.com" target="_blank" style="color: blue!important;">https://order.haula-toys.com</a>
+        </p>
       </div>
     </div>
 
@@ -446,13 +448,13 @@
   <section id="contact" class="wow fadeInUp">
     <div class="container">
       <div class="section-header">
-        <h2>Hubungi Kami</h2>
-        <p>Silahkan mengisi formulir pada form di bawah ini untuk mengajukan pemesanan atau hal apapun kepada kami Haula Toys. Kami akan segera merespon dengan cepat keinginan dan kebutuhan Anda. Atau Anda dapat menghubungi kami melalui contact person yang ada di bawah ini.</p>
+        <h2>Hubungi Kami <a href="https://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
+        <p>Silahkan mengisi formulir pada form di bawah ini untuk mengajukan pemesanan atau hal apapun kepada kami Haula Toys. Kami akan segera merespon dengan cepat keinginan dan kebutuhan Anda. Atau Anda dapat menghubungi kami melalui contact person yang ada di bawah ini. Paket dan produk layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="https://order.haula-toys.com" target="_blank" style="color: blue!important;">https://order.haula-toys.com</a></p>
       </div>
 
       <div class="row contact-info">
 
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="contact-address">
             <i class="ion-ios-location-outline"></i>
             <h3>Alamat</h3>
@@ -461,7 +463,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="contact-phone">
             <i class="ion-ios-telephone-outline"></i>
             <h3>Phone Number</h3>
@@ -469,11 +471,20 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="contact-email">
             <i class="ion-ios-email-outline"></i>
             <h3>Email</h3>
             <p><a href="mailto:marketing.haulatoys@gmail.com">marketing.haulatoys@gmail.com</a></p>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="contact-phone">
+            <i class="fa fa-whatsapp"></i>
+            <h3>Whatsapp</h3>
+            <p><a href="http://bit.ly/wahaulaviaweb"
+                  target="_blank">+62 821-2122-7019</a></p>
           </div>
         </div>
 
