@@ -31,7 +31,7 @@
     <div id="logo" class="pull-left">
       <!-- <h1><a href="#body" class="scrollto">Reve<span>al</span></a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
-       <a href="#body"><img src="img/logo1.png" alt="" title="" /></a>
+       <a href="{{ url('/') }}"><img src="img/logo1.png" alt="" title="" /></a>
     </div>
 
     <nav id="nav-menu-container">
@@ -50,6 +50,7 @@
           </ul>
         </li> -->
         <li><a href="#contact">Hubungi Kami</a></li>
+        <li><a href="http://order.haula-toys.com" target="_blank">Order Products</a></li>
       </ul>
     </nav><!-- #nav-menu-container -->
   </div>

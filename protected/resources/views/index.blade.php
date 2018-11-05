@@ -6,7 +6,7 @@
     <h2>Pesan dan buat <u>mainan</u><br>edukatif Anda di sini!</h2>
     <div>
       <a href="#about" class="btn-get-started scrollto">Lihat Selanjutnya</a>
-      <a href="https://order.haula-toys.com" target="_blank" class="btn-projects scrollto">Order Produk Haula</a>
+      <a href="http://order.haula-toys.com" target="_blank" class="btn-projects scrollto">Order Produk Haula</a>
     </div>
   </div>
 
@@ -79,8 +79,8 @@
   <section id="services">
     <div class="container">
       <div class="section-header">
-        <h2>Layanan Kami <a href="https://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
-        <p>Berikut ini berbagai layanan dari produksi haula toys untuk Anda. <br/>Layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="https://order.haula-toys.com" target="_blank" style="color: blue!important;">https://order.haula-toys.com</a></p>
+        <h2>Layanan Kami <a href="http://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
+        <p>Berikut ini berbagai layanan dari produksi haula toys untuk Anda. <br/>Layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="http://order.haula-toys.com" target="_blank" style="color: blue!important;">order.haula-toys.com</a></p>
       </div>
 
       <div class="row">
@@ -172,9 +172,9 @@
   <section id="portfolio" class="wow fadeInUp">
     <div class="container">
       <div class="section-header">
-        <h2>Portofolio Haula Toys <a href="https://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
+        <h2>Portofolio Haula Toys <a href="http://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
         <p>Berikut ini berbagai hasil karya yang kami buat selama melayani berbagai pelanggan dan mitra selama 20 tahun ini.<br/>
-          Layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="https://order.haula-toys.com" target="_blank" style="color: blue!important;">https://order.haula-toys.com</a>
+          Layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="http://order.haula-toys.com" target="_blank" style="color: blue!important;">order.haula-toys.com</a>
         </p>
       </div>
     </div>
@@ -448,8 +448,8 @@
   <section id="contact" class="wow fadeInUp">
     <div class="container">
       <div class="section-header">
-        <h2>Hubungi Kami <a href="https://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
-        <p>Silahkan mengisi formulir pada form di bawah ini untuk mengajukan pemesanan atau hal apapun kepada kami Haula Toys. Kami akan segera merespon dengan cepat keinginan dan kebutuhan Anda. Atau Anda dapat menghubungi kami melalui contact person yang ada di bawah ini. Paket dan produk layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="https://order.haula-toys.com" target="_blank" style="color: blue!important;">https://order.haula-toys.com</a></p>
+        <h2>Hubungi Kami <a href="http://order.haula-toys.com" target="_blank" class="btn btn-primary">Order</a></h2>
+        <p>Silahkan mengisi formulir pada form di bawah ini untuk mengajukan pemesanan atau hal apapun kepada kami Haula Toys. Kami akan segera merespon dengan cepat keinginan dan kebutuhan Anda. Atau Anda dapat menghubungi kami melalui contact person yang ada di bawah ini. Paket dan produk layanan kami sekarang dapat dipesan melalui link berikut ini : <a href="http://order.haula-toys.com" target="_blank" style="color: blue!important;">order.haula-toys.com</a></p>
       </div>
 
       <div class="row contact-info">
